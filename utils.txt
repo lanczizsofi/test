@@ -1,0 +1,3 @@
+valamit csinalj {
+    do();
+}
